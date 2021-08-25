@@ -1,1 +1,2 @@
-# java_corona_tracker
+# Corona Virus Tracker
+### Simple Spring Boot project
